@@ -6,3 +6,4 @@ unicodedata
 random
 io
 scikit-learn
+sklearn
