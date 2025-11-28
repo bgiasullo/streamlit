@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy
+numpy==1.26.1
 csv
 unicodedata
 random
