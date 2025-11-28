@@ -4,7 +4,6 @@ import numpy as np
 import csv
 import unicodedata
 import random
-import sklearn
 from io import StringIO
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
