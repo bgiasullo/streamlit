@@ -5,4 +5,4 @@ csv
 unicodedata
 random
 io
-scikit-learn
+scikit-learn==1.7.2
