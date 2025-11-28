@@ -4,10 +4,9 @@ import numpy as np
 import csv
 import unicodedata
 import random
-import scikit-learn
 from io import StringIO
-from scikit-learn.feature_extraction.text import TfidfVectorizer
-from scikit-learn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 # -----------------------------
 # Debug function for suspicious bytes (optional)
